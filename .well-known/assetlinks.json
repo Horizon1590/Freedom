@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.freedomapp.twa",
-      "sha256_cert_fingerprints": [
-        "A5:9E:21:07:5D:7F:A2:97:58:2B:E1:ED:9B:47:EF:9C:83:BE:11:36:99:56:17:6A:7B:85:4D:FC:D6:7F:4D:60"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.horizon1590.twa",
+        "sha256_cert_fingerprints": ["77:BD:28:BF:B4:45:B9:7A:C6:6C:00:1C:B4:24:E3:E9:DB:E1:44:D1:39:40:BF:2B:72:97:73:C5:35:64:98:B9"]
+      }
+    }]
